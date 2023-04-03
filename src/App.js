@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import Pai from "./atividades/questao01/pai"
+import Avo from './atividades/atividade02/questao02/Avo';
+
 function App() {
   return (
-    <Pai />
+    <Avo />
   );
 }
 
