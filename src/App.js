@@ -1,9 +1,8 @@
 import './App.css';
-import Avo from './atividades/atividade02/questao02/Avo';
-
+import FunctionEstados from './atividades/10Estados/FunctionEstados';
 function App() {
   return (
-    <Avo />
+    <FunctionEstados />
   );
 }
 
